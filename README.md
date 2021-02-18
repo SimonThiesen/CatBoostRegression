@@ -1,4 +1,4 @@
-# CatBoostRegression
+## CatBoostRegression
 
 This is the repo for my Medium and TowardsDataScience article.
 
@@ -12,4 +12,4 @@ Please have a look at the article for additional information.
 
 
 
-Enjoy!
+### Enjoy!
